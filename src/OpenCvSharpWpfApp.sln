@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenCvSharpWpfApp", "OpenCvSharpWpfApp\OpenCvSharpWpfApp.csproj", "{A984236A-5F0A-478A-AFCD-97CCCC15CBEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraVideoCapture", "CameraVideoCapture\CameraVideoCapture.csproj", "{CF43C139-25F9-4029-81C2-B91B289DC9CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A984236A-5F0A-478A-AFCD-97CCCC15CBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A984236A-5F0A-478A-AFCD-97CCCC15CBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A984236A-5F0A-478A-AFCD-97CCCC15CBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A984236A-5F0A-478A-AFCD-97CCCC15CBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF43C139-25F9-4029-81C2-B91B289DC9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF43C139-25F9-4029-81C2-B91B289DC9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF43C139-25F9-4029-81C2-B91B289DC9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF43C139-25F9-4029-81C2-B91B289DC9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8AB754-44DD-44A3-B2B9-B8043E207013}
+	EndGlobalSection
+EndGlobal
